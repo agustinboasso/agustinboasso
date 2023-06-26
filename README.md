@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJS, NodeJS, Vue**
 
-- 💬 Ask me about **ReactJS, VueJS**
+- 💬 Ask me about **ReactJS, JavaScript, NodeJS, Express**
 
 - 📫 How to reach me **boassoagustin@gmail.com**
 
