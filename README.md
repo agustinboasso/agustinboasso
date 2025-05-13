@@ -9,6 +9,14 @@
 
 ---
 
+### 🧠 About Me
+
+Fullstack developer especializado en JavaScript y soluciones de integración de datos.  
+Trabajo con Talend, Node.js, React, GCP y herramientas DevOps para construir integraciones, CRMs y microservicios escalables.  
+Apasionado por la automatización, el trabajo colaborativo y el aprendizaje continuo.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 👨‍🎨 Frontend
@@ -54,6 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
   <img src="https://www.talend.com/wp-content/uploads/2022/03/logo-talend-color.svg" width="80" title="Talend ETL"/>
 </p>
+
 ---
 
 
